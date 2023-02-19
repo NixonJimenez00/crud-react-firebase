@@ -3,12 +3,12 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from '@firebase/firestore'
 
 const firebaseConfig = {
-  apiKey: "Aquí vienen tus datos",
-  authDomain: "Aquí vienen tus datos",
-  projectId: "Aquí vienen tus datos",
-  storageBucket: "Aquí vienen tus datos",
-  messagingSenderId: "Aquí vienen tus datos",
-  appId: "Aquí vienen tus datos"
+    apiKey: "AIzaSyD07xBBHevhzcvj8-a4NEYVDPLexlxA42c",
+    authDomain: "tareapw.firebaseapp.com",
+    projectId: "tareapw",
+    storageBucket: "tareapw.appspot.com",
+    messagingSenderId: "729338244266",
+    appId: "1:729338244266:web:4b8997651a1b89acafb4d3"
 };
 
 const app = initializeApp(firebaseConfig);
